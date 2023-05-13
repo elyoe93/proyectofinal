@@ -1,0 +1,30 @@
+.body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+    background-image: url(https://cdn.pixabay.com/photo/2015/03/18/09/31/prairie-679014_1280.jpg);
+}
+
+form label{
+    width: 100%;
+    color: hsl(180, 100%, 50%);
+
+}
+
+.bernardo{
+    width: 100%;
+    color: hsl(180, 100%, 50%);
+}
+
+a{border: 0cap;}
+  
